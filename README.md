@@ -33,6 +33,7 @@
 Установка зависимостей:
 
 pip install uv
+
 uv sync
 
 
